@@ -33,7 +33,7 @@
 **Используемые технологии:**
 - Исследовательское функциональное тестирование;
 - Написание тест-кейсов;
-- Заведение [баг-репортов]();
+- Заведение [баг-репортов](https://drive.google.com/drive/folders/1VbBWdo76yEiduYIHR9xaoZoZyPnpQzZu?usp=sharing);
 - Подготовка [отчета о тестировании](https://docs.google.com/document/d/1Uw3Ac-oR8QoRJHhdM2BVNHjLusaA4bc3/edit?usp=sharing&ouid=103163356579732891668&rtpof=true&sd=true).
 
 
