@@ -20,7 +20,7 @@
 
 <h2>Самостоятельно реализованные проекты:</h2>
 
-1. *[Тестирование страницы доставки транспотной компании "СДЭК"](https://drive.google.com/drive/folders/1mCsp7TGifml0hF0lA8FJjhV70ANVgtR8?usp=sharing)*
+1. *[Тестирование страницы доставки транспотной компании "СДЭК"](https://docs.google.com/spreadsheets/d/1IDYtSaxNCoGnCq7NETDHMPFXjbdMsQHxz7aHNHdmRwM/edit?usp=sharing)*
 
 **Задачи:**
 - Провести ручное тестирование страницы доставки.
@@ -33,7 +33,7 @@
 **Используемые технологии:**
 - Исследовательское функциональное тестирование;
 - Написание тест-кейсов;
-- Заведение баг-репортов;
+- Заведение [баг-репортов]();
 - Подготовка [отчета о тестировании](https://docs.google.com/document/d/1Uw3Ac-oR8QoRJHhdM2BVNHjLusaA4bc3/edit?usp=sharing&ouid=103163356579732891668&rtpof=true&sd=true).
 
 
@@ -51,7 +51,7 @@
 - Написание тест-кейсов;
 - Функциональное тестирование;
 - Тестирование верстки;
-- Заведение баг-репортов;
+- Заведение [баг-репортов](https://drive.google.com/drive/folders/1VbBWdo76yEiduYIHR9xaoZoZyPnpQzZu?usp=sharing);
 - Подготовка [отчета о тестировании](https://docs.google.com/document/d/1MuLEYPQ2PxTCXTA2psFv_QJ-qMyyclc3/edit?usp=sharing&ouid=103163356579732891668&rtpof=true&sd=true).
 
 
